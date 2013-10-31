@@ -5,20 +5,20 @@
   <version>2.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20131017.133015</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20131031.125659</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20131017133015</lastUpdated>
+    <lastUpdated>20131031125659</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>2.0.0-20131017.133015-1</value>
-        <updated>20131017133015</updated>
+        <value>2.0.0-20131031.125659-2</value>
+        <updated>20131031125659</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.0-20131017.133015-1</value>
-        <updated>20131017133015</updated>
+        <value>2.0.0-20131031.125659-2</value>
+        <updated>20131031125659</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
